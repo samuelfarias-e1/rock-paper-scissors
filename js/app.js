@@ -1,4 +1,4 @@
-
+/*
 let playerPoints = 0;
 let computerPoints = 0;
 
@@ -89,6 +89,14 @@ game = () =>{
 
     }
 game();
+
+*/
+
+
+// new code ui
+
+let playerPoints = 0;
+let computerPoints = 0;
 
 
 
